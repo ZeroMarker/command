@@ -1,4 +1,4 @@
-ii code   # open folder or file Invoke-Item
+ii file   # open folder or file Invoke-Item
 start code
 psr       # Steps Recorder
 notepad

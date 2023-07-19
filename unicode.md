@@ -2,8 +2,6 @@
 
 &#8364; &#x20AC; &euro;
 
-&#x2611;
-
 &#x00A7;
 
 &#x266D;
@@ -14,4 +12,9 @@
 &#x3B1;
 &alpha;
 
-[^\x00-\xff]+ Match any two byte character
+&#x4e00;
+&#x9fa5;
+
+[^\x00-\xff]+ Two byte character
+
+[\u4e00-\u9fa5] Chinese character

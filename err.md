@@ -64,7 +64,7 @@ swap(a, b);
 ```
 
 ```sh
-vim .vim/vimrc # create directory and file same time
+vim .vim/vimrc # create directory and file meanwhile
 ```
 
 ```C

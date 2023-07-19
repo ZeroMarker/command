@@ -7,6 +7,9 @@ Windows
 - winget search powertoys
 - winget install aliyunpan
 
+# Scoop
+Windows
+
 # HomeBrew
 MacOS & Linux
 
@@ -20,4 +23,4 @@ Debian family
 Cent OS family
 
 # apk
-alpine
+Alpine Linux

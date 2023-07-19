@@ -24,6 +24,7 @@ apt install tigervnc-standalone-server
 vncserver -localhost no
 vncserver -list
 
+# Link file
 echo "This is file1" > file1
 ls -li    // --inode
 ln file1 file2
