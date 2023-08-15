@@ -14,17 +14,19 @@ gzip test.tar
 gunzip test.tar.gz
 history
 chmod +x test.sh
-kex --esm --ip -s
-neofetch
-uname
 
-## Linux GUI
+
+# Linux GUI
+
 apt install tasksel slim -y
 apt install tigervnc-standalone-server
 vncserver -localhost no
 vncserver -list
 
+kex --esm --ip -s
+
 # Link file
+
 echo "This is file1" > file1
 ls -li    // --inode
 ln file1 file2
@@ -40,5 +42,24 @@ export|sort>export.txt
 
 vimdiff env.txt set.txt export.txt
 
+# Trash
 
+gio trash *.txt // move file to trash
+ls ~/.local/share/Trash/files
 
+# system info
+
+uname -a
+neofetch
+
+# Spd-say
+
+spd-say "I am a robot."
+
+# zip
+
+tar cf target.tar file1 file2
+
+tar czf target.tar.gz file1 file2
+
+tar xvf source.tar.gz
