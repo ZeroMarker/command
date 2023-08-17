@@ -75,3 +75,13 @@ int main(void) {
 type (*functionPointerArray[size])(type, type) = {f1, f2, ..,};
 int main(void) {}
 ```
+
+```js
+var a = [];
+for (var i = 0; i < 10; i++) {
+  a[i] = function () {
+    console.log(i);
+  };
+}
+a[6](); // 10
+```
