@@ -1,0 +1,2 @@
+# included *.c
+!*.c
