@@ -8,8 +8,6 @@ git commit -m "message"
 
 git commit -am "message"
 
-git ls-files
-
 git push
 
 git pull
@@ -51,6 +49,6 @@ git ls-tree HEAD~1
 .gitignore
 
 git branch --show-current
-
 git merge --abort
----
+git commit --amend --no-edit
+

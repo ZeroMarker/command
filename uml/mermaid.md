@@ -1,3 +1,4 @@
+## Graph
 ```mermaid
 graph TD;
     A-->B;
@@ -5,6 +6,7 @@ graph TD;
     B-->D;
     C-->D;
 ```
+
 ```mermaid
 graph TB
     c1-->a2

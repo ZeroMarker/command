@@ -1,4 +1,5 @@
-gal ls    # Get-Alias
+# Get-Alias
+gal ls
 
 # which
 (Get-Command code).Path
@@ -8,5 +9,5 @@ gal ls    # Get-Alias
 Unix Ctrl + D 
 Windows Ctrl + Z
 
-# Remove empty Folders/Directories recursively
+# Remove empty Folders recursively
 (gci "C:\dotnet-helpers\TEMP Folder" -r | ? {$_.PSIsContainer -eq $True}) | ?{$_.GetFileSystemInfos().Count -eq 0} | remove-item

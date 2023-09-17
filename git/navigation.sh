@@ -10,8 +10,6 @@ git merge bugFix
 
 git rebase bugFix
 
-git commit --amend --no-edit
-
 --- relative refs
 
 git checkout bugFix^

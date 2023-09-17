@@ -1,3 +1,4 @@
+# show all warning
 gcc main.c -o main -Wall
 
 gcc -E hello.c > hello.i    # preprocess
