@@ -1,1 +1,5 @@
 locate
+
+whoami
+
+history
