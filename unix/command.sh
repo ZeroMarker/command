@@ -1,5 +1,0 @@
-locate
-
-whoami
-
-history
