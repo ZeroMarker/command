@@ -24,3 +24,18 @@ Cent OS family
 
 # apk
 Alpine Linux
+
+# Apache Maven
+
+# RubyGems
+
+# NuGet
+
+# npm
+
+# Docker
+
+# vcpkg
+
+# huggingface
+
