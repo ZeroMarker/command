@@ -85,3 +85,8 @@ for (var i = 0; i < 10; i++) {
 }
 a[6](); // 10
 ```
+
+```
+sudo ufw allow 3000
+sudo ufw allow 8080
+```
