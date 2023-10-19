@@ -22,3 +22,4 @@ Ctrl + Shift + Del,clear all cache
 Ctrl + Shift + J,console panel
 F5,clear specific web cache
 Shift + F5,clear specific web cache
+chrome://chrome-urls/
