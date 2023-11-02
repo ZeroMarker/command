@@ -1,3 +1,6 @@
+Live Server root dir, open in browser like explorer
+Simple Browser, bilibili.com, open website at vscode
+
 Ctrl + L	Highlight the line
 Ctrl + X	cut the line
 Alt + Up	move line
