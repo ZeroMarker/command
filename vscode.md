@@ -1,6 +1,8 @@
 Live Server root dir, open in browser like explorer
 Simple Browser, bilibili.com, open website at vscode
 
+Alt + Shift + F	format code
+
 Ctrl + L	Highlight the line
 Ctrl + X	cut the line
 Alt + Up	move line
@@ -11,7 +13,7 @@ Ctrl + `	terminal
 Ctrl + Left 	move word
 Alt + Click, multiple cursor
 Ctrl + Alt + Down	multiple cursor
-Alt + Shift + F	format code
+
 Ctrl + Shift + M	problem
 Ctrl + Shift + V	preview
 Ctrl + D, Ctrl + Z	select current line
