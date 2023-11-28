@@ -1,1 +1,1 @@
-# command
+# shortcut
