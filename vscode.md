@@ -1,3 +1,8 @@
+[VS Code Top-Ten Pro Tips](https://www.youtube.com/watch?v=u21W_tfPVrY)
+
+- shortcuts
+- snippets
+
 Live Server root dir, open in browser like explorer
 Simple Browser, bilibili.com, open website at vscode
 
