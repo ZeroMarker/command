@@ -3,8 +3,12 @@
 - shortcuts
 - snippets
 
+extensions
+```
 Live Server root dir, open in browser like explorer
 Simple Browser, bilibili.com, open website at vscode
+Code Runner
+```
 
 Alt + Shift + F	format code
 
