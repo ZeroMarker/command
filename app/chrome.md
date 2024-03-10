@@ -23,6 +23,8 @@ Ctrl + Shift + J,console panel
 F5,clear specific web cache
 Shift + F5,clear specific web cache
 
+Ctrl + Shift + Del, clear cookies or open settings
+
 chrome://chrome-urls/
 
 file:///D:/
