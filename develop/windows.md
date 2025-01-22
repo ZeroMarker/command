@@ -1,4 +1,3 @@
-Win + X	manage center	
 Win + E	explorer	
 Win + Shift + S	screenshot	
 Ctrl + Shift + Esc	task manager	

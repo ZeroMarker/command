@@ -1,1 +1,0 @@
-shift + /, show shortcut
